@@ -2,7 +2,7 @@
 VERSION = 4
 PATCHLEVEL = 14
 SUBLEVEL = 356
-EXTRAVERSION = -openela-rc1-vigus
+EXTRAVERSION = -moonlight@nongki
 NAME = Petit Gorille
 
 # *DOCUMENTATION*
