@@ -21,7 +21,7 @@ on:
       DEFCONFIG:
         description: 'The defconfig name (e.g., arch/arm64/configs/vendor_defconfig)'
         required: true
-        default: 'ksu_defconfig'
+        default: 'a32_noksu_defconfig'
       
 jobs:
   build:
