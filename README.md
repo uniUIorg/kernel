@@ -12,13 +12,13 @@
 <div align="left" markdown="1">
   
 
-### Maintainer: @nguyencaoantuong
+### Maintainer: [nguyencaoantuong](https://ncatt.t.me) ([m0onl1ghtt](https://github.com/m0onl1ghtt))
 
-> Download: below
+> Download: [Telegram channel](https://t.me/nguyencaoantuong)
 
-- KernelSU variant: KernelSU Next
-- KernelSU Manager supported: KernelSU Next
-- SELinux: Permissive and Enforcing 
+- **KernelSU variant:** KernelSU Next
+- **KernelSU Manager supported:** KernelSU Next
+- **SELinux:** Enforcing 
 
 ### Features: 
 - just upstreamed to .356 
@@ -27,15 +27,15 @@
 - hook kprobes
 - EroFS for some ROMs have EroFS
 
-### Known issue: no (until now)
+> Known issue: no (until now)
 
-> kernel source: Moonlight-kernel on GitHub (https://github.com/nguyencaoantuong/Moonlight-kernel)
+> original kernel source: [LumiKernel-erofs](https://github.com/Luminous418-erofs)
 
 > thanks: 
-- @fukiame: improve kernel source 
-- @msan_vigus: commit manual hook 
-- @RainyXeon: help me for hook min scope 
-- @Luminous418: EroFS support
+- **[fukiame](https://github.com/fukiame):** improve kernel source 
+- **[mertsan2007](https://github.com/mertsan2007):** commit manual hook 
+- **[RainyXeon](https://github.com/RainyXeon):** help me for hook min scope 
+- **[Luminous418](https://github.com/Luminous418):** EroFS support
 
 > notes: i'm not tested bc i busy, have any problem please contact me
 
