@@ -3,12 +3,7 @@
 <div align="center" markdown="1">
   
 <div align="center" markdown="1">
-
-<p align="center">
-  <img src="https://github.com/m0onl1ghtt/m0onl1ghtt/blob/main/sticker2.png" alt="a" width="200" height="200"/>
-</p>
-
-
+  
 <div align="center" markdown="1">
   
 ## Moonlight kernel
