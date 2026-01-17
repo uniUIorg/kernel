@@ -2,7 +2,7 @@
 VERSION = 4
 PATCHLEVEL = 14
 SUBLEVEL = 356
-EXTRAVERSION = - universalUI+perf
+EXTRAVERSION = - universalKernel @ An Tuong
 NAME = Petit Gorille
 
 # *DOCUMENTATION*
