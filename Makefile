@@ -2,7 +2,7 @@
 VERSION = 4
 PATCHLEVEL = 14
 SUBLEVEL = 356
-EXTRAVERSION = -perf+uniUI
+EXTRAVERSION = - universalUI+perf
 NAME = Petit Gorille
 
 # *DOCUMENTATION*
