@@ -1,5 +1,5 @@
 > [!TIP]
-> Want build? Let's go to [```guide/Howtobuildthat.md```](https://github.com/m0onl1ghtt/Moonlight-kernel/blob/main/guide/Howtobuildthat.md)
+> Want build? Let's go to [```guide/Howtobuildthat.md```](guide/Howtobuildthat.md)
 <div align="center" markdown="1">
   
 <div align="center" markdown="1">
